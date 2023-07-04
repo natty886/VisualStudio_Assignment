@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{1B84DCFA-ED64-418F-878A-D228E75F52D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/css/site.css">
+    <Files>
+      <File FileName="wwwroot/css/site.css" Line="40" Column="18" />
+      <File FileName="Pages/Index.cshtml" />
+      <File FileName="wwwroot/js/site.js" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VS_HTML_assignment" expanded="True">
+            <Node name="VS_HTML_assignment" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="site.css" selected="True" />
+                </Node>
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VS__HTML__assignment PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
